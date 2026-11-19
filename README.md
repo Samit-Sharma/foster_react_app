@@ -1,4 +1,4 @@
-# Fastor OTP React App
+# Fastor  React App
 
 A complete Vite + React frontend using the supplied Fastor staging API:
 - `POST /v1/pwa/user/register` — requests/sends an OTP.
