@@ -1,0 +1,2 @@
+/api/*  https://staging.fastor.ai/:splat  200
+/*      /index.html                       200
